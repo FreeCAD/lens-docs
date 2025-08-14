@@ -1,5 +1,5 @@
 ---
-title: Files vs Models
+title: Files vs models
 description: Learn what distinguishes models from files on Lens
 weight: 1
 ---

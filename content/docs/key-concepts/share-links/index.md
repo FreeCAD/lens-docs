@@ -1,20 +1,17 @@
 ---
 id: share-links
-title: Share Links
+title: Share links
 description: Learn about share links and their settings
-tags:
-  - share
-  - concepts
-sidebar_position: 2
+weight: 3
 ---
 
-A share link is a way to make a model accessible to other users under certain conditions. You can create as many share links per model as you like. All share links have unique URLs, such as https://lens.ondsel.com/share/672a106ce0f5e61b6639594f.
+A share link is a way to make a model accessible to other users under certain conditions. You can create as many share links per model as you like. All share links have unique URLs, such as `https://lens.ondsel.com/share/672a106ce0f5e61b6639594f`.
 
-## Toggling Share Links
+## Toggling share links
 
 You can toggle a share link to disable it without actually destroying it. The switch is at the top of the sahre link settings dialog.
 
-## Mandatory Fields
+## Mandatory fields
 
 When you create a new share link, Lens requires you to fill in two fields:
 
@@ -34,7 +31,7 @@ You can make share links publicly visible or visible only under certain circumst
 - **PIN**: the share link will not be publicly listed, it will not be searchable, and you need to know the exact 6-digit PIN to access it.
 - **Direct**: only existing Lens users you specified can access the share link if they know the exact URL; nobody else can see the share link or search for it.
 
-### General Permissions
+### General permissions
 
 The **General Permissions** section helps control basic :
 
@@ -44,7 +41,7 @@ The **General Permissions** section helps control basic :
 
 For more information about attributes, please see the **Model Customization** section.
 
-### Export/Download Permissions
+### Export/download permissions
 
 Lens provides control over the downloading of the original file for users who have access to the model via the share link.
 
@@ -52,6 +49,6 @@ By default, users who accessed the model using a share link can only explore the
 
 The “original file” option helps download the model in its original file format, whatever format that is.
 
-## Version Change Handling
+## Version change handling
 
 Share links can be associated with either a particular revision of a model or with the latest active revision, for more information, please see the **Versioning** section.
