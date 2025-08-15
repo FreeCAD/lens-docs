@@ -18,7 +18,7 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: Ondsel Lens
       pageRef: /docs
       weight: 1
 #    - name: About
@@ -33,6 +33,11 @@ menu:
       url: "https://github.com/FreeCAD/lens-docs"
       params:
         icon: github
+    - name: Discord
+      weight: 6
+      url: "https://discord.gg/w2cTKGzccC"
+      params:
+        icon: discord
 
 params:
   navbar:
@@ -49,5 +54,5 @@ params:
     displayPoweredBy: true
 
   editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    enable: false
+    base: "https://github.com/FreeCAD/lens-docs/edit/main/content"
