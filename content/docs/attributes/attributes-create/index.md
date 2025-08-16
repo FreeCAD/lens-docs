@@ -1,6 +1,6 @@
 ---
 id: attributes-create
-title: Creating Model Attributes
+title: Creating model attributes
 description: How to create custom properties in your 3D CAD designs
 weight: 1
 ---

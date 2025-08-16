@@ -1,6 +1,6 @@
 ---
 id: attributes
-title: Model Attributes
+title: Model attributes
 description: How to use custom properties in your 3D CAD designs
 weight: 7
 ---
@@ -17,5 +17,6 @@ Users or Lens can access such a model and change the same properties:
 
 Learn how to:
 
-1. [Make model attributes accessible to other users](attributes-access)
-2. [Update model attributes](attributes-update)
+1. [Create model attributes](/docs/attributes/attributes-create/)
+2. [Make model attributes accessible to other users](attributes-access)
+<!-- 3. [Update model attributes](attributes-update) -->
