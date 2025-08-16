@@ -1,6 +1,6 @@
 ---
 id: org-delete
-title: Deleting Organizations
+title: Delete an organization
 description: How to delete organizations in Ondsel Lens
 weight: 7
 ---

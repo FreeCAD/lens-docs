@@ -1,6 +1,8 @@
 ---
 id: org-configure
-title: Setting up Organizations
+title: Set up an organization
 description: How to set up organizations in Ondsel Lens
 weight: 3
 ---
+
+TODO
