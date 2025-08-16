@@ -1,17 +1,21 @@
 ---
-title: Exploring 3D CAD Models
+title: Explore CAD models
 description: How to explore CAD models in Ondsel Lens
 weight: 3
 ---
 
+## Opening models
+
 To start exploring a model you uploaded, do one of the two things:
 
 - Select organization (top of the page, defaults to 'Personal'), workspace (is listed once you select organization), and directory where it's located. Then single-click to open and after that click **Explore**.
-- Click the "hamburger" button in the upper left corner and choose "My Models" in the drop-down list to view all the models you uploaded, then single-click the model of interest.
+- Click the "hamburger" button in the upper left corner and choose **My Models** in the drop-down list to view all the models you uploaded, then single-click the model of interest.
 
 Lens will create mesh from the original model and display it in the 3D space:
 
 ![Model view in 3D](lens-web-explore.webp)
+
+## Navigation in the 3D space
 
 Navigation uses a conventional interaction model:
 
@@ -19,6 +23,8 @@ Navigation uses a conventional interaction model:
 - **Right-click and drag** to **pan** the camera.
 - **Scroll the mouse wheel** or **middle-click and drag up/down** to **zoom** in and out.
 - **Single-click** select an object (Ondsel ES's body) in the model.
+
+## Toolbar options
 
 The vertical toolbar on the right provides contains several commands (top to bottom):
 

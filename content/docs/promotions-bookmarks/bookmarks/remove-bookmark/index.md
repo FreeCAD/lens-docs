@@ -1,34 +1,32 @@
 ---
 id: bookmarks-remove
-title: Removing a Bookmark 
+title: Remove a bookmark 
 description: How to remove a bookmark for a model on Lens
 weight: 2
 ---
 
-This tutorial will guide you through the process of removing a bookmark step-by-step.
+To removing a bookmark, follow these steps:
 
-1. Begin by clicking on the **bookmark links** located in the left sidebar.
+{{% steps %}}
 
----
+### Go to the list of bookmarks
 
-2. Locate the item for which you wish to remove the bookmark.
+Begin by clicking on the **bookmark links** located in the left sidebar.
 
----
+### Remove a bookmark
 
-3. Click on the **grayed out bookmark icon**. This will allow you to click on the drop-down list to view the list of organizations.
+Locate the item for which you wish to remove the bookmark.
 
----
+Click on the **grayed out bookmark icon**. This will allow you to click on the drop-down list to view the list of organizations.
 
-4. Uncheck the respective box to proceed.
+Uncheck the respective box to proceed.
 
----
+### Update the list of bookmarks
 
-5. Click on the **Update bookmarks** button.
-
----
+Click on the **Update bookmarks** button.
 
 Your bookmark will now be successfully deleted.
 
-***
+{{% /steps %}}
 
 By following these steps, you will have successfully removed the selected bookmark.

@@ -1,24 +1,28 @@
 ---
 id: promotions-remove
-title: Removing a Promotion
-description: How to remove a promotion
+title: Remove a promotion
+description: How to remove a promotion from your organization's page
 weight: 2
 ---
 
-This tutorial will guide you through the process of removing a promoted item from your organization page.
+To remove a promoted item from your organization page, follow these steps:
 
-1. Navigate to your **Organization Settings** by clicking on the **Gear icon** located to the right of your organization's name.
+{{% steps %}}
 
----
+### Go to organization settings
 
-2. On the **Settings** or **Organization Settings** page, find the section for **Promoted Public Promoted Items**.
+Navigate to your **Organization Settings** by clicking on the **Gear icon** located to the right of your organization's name.
 
----
+### Open the list of promoted items
 
-3. Identify the item that you wish to remove and click on the **Pencil icon**.
+On the **Settings** or **Organization Settings** page, find the section for **Promoted Public Promoted Items**.
 
----
+### Remove a promotion
 
-4. A dialog will appear; click the **No button** to confirm your choice.
+Identify the item that you wish to remove and click on the **Pencil icon**.
 
-This action will effectively remove the promoted item from your Promotions.
+A dialog will appear; click the **No button** to confirm your choice.
+
+This action will effectively remove the promoted item from your promotions.
+
+{{% /steps %}}

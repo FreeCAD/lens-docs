@@ -1,5 +1,5 @@
 ---
-title: Workspace Settings
+title: Set up the workspace
 id: workspaces-settings
 description: How to manage workspaces on Ondsel Lens
 weight: 3

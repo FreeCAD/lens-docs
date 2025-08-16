@@ -1,6 +1,6 @@
 ---
 id: promotions-and-bookmarks
-title: Promotions & Bookmarks
+title: Promotions and bookmarks
 description: Using promotions and bookmarks to keep track of content you like
 weight: 6
 ---

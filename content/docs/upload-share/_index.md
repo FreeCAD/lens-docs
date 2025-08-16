@@ -1,5 +1,5 @@
 ---
-title: Upload & Share
+title: Upload & share
 description: Getting started with Ondsel Lens
 weight: 2
 ---

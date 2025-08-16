@@ -1,6 +1,6 @@
 ---
 id: account-team
-title: Account & Team
+title: Account and team
 description: How to manage accounts, organizations, and teams
 weight: 4
 ---

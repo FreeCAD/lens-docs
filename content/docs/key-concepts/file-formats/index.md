@@ -1,6 +1,6 @@
 ---
-id: attributes
-title: File Formats
+id: file-formats
+title: File formats
 description: What file formats Ondsel Lens supports 
 weight: 2
 ---

@@ -1,26 +1,30 @@
 ---
 id: bookmarks-add
-title: Adding a Bookmark 
+title: Add a bookmark 
 description: How to create a bookmark for a model on Lens
 weight: 1
 ---
 
-This tutorial will guide you through the process of creating bookmarks for models that are only visible to members of your organization.
+To create a bookmark for a model, follow these steps:
 
-1. To create a bookmark from the **Public List model**, start by clicking the **bookmark button** located below the preview.
+{{% steps %}}
 
----
+### Choose a model
 
-2. Next, access the drop-down list to select the organizations currently listed.
+To create a bookmark from a publicly listed model, start by clicking the **bookmark button** located below the preview.
 
-Make sure to check the boxes for the organizations where you want this bookmark to be visible.
+### Select the organization
 
----
+In a drop-down list, choose the organizations where you want this bookmark to be stored.
 
-3. After making your selections, click elsewhere on the page, then click on the **Update Bookmarks** button to save your changes.
+### Save the changes
 
----
+After making your selections, click elsewhere on the page, then click on the **Update Bookmarks** button to save your changes.
 
-4. To view the bookmarks, select the **Bookmarks** link found in the left sidebar. The item's bookmark will be displayed in the list.
+### Verify newly added bookmarks
+
+To view the bookmarks, select the **Bookmarks** link found in the left sidebar. The item's bookmark will be displayed in the list.
 
 Alternatively, you can click on the model to view it directly.
+
+{{% /steps %}}

@@ -1,40 +1,62 @@
 ---
 id: org-manage-admin-access
-title: Managing Admin Access
+title: Manage admin access
 description: How to manage admin access in your organization in Ondsel Lens
 weight: 5
 ---
 
 ## Promoting users to admins
 
-1. To promote a user to an administrator, navigate to the **Organization Settings** page.
+To promote a user to an administrator, follow these steps:
 
----
+{{% steps %}}
 
-2. Switch to the **Users** tab and locate the user you wish to promote.
+### Open organization settings
 
----
+Navigate to the **Organization Settings** page.
 
-3. Click the **Edit** icon located to the right of the user's name.
+### Locate the user
 
----
+Switch to the **Users** tab and locate the user you wish to promote.
 
-4. After that, click the **Make Admin** button.
+![Promote user](promote-01.gif)
 
-	The user's status will update immediately.
+### Promote the user to admin
 
-## Revoking admin priveleges
+Click the **Edit** icon located to the right of the user's name.
 
-1. To revoke admin access, navigate to the **Organization Settings** page.
+![Promote user](promote-02.gif)
 
-	Then, switch to the **Users** tab and locate the user whose admin priveleges you want to revoke.
+After that, click the **Make Admin** button.
 
----
+![Promote user](promote-03.gif)
 
-2. Click the **Edit** icon located to the right of the user's name.
+The user's status will update immediately.
 
----
+{{% /steps %}}
 
-3. Then, click the **Revoke Admin Access** button.
+## Revoke admin privileges
 
-	The user's status will update immediately.
+To revoke admin access, follows these steps:
+
+{{% steps %}}
+
+### Open organization settings
+
+Navigate to the **Organization Settings** page.
+
+### Locate the user
+
+Switch to the **Users** tab and locate the user whose admin privileges you want to revoke.
+
+### Revoke admin access
+
+Click the **Edit** icon located to the right of the user's name.
+
+Then, click the **Revoke Admin Access** button.
+
+![Revoke privileges](revoke-03.gif)
+
+The user's status will update immediately.
+
+{{% /steps %}}

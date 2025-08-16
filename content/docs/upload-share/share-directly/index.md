@@ -1,35 +1,46 @@
 ---
 id: share-directly
-title: Sharing Models Directly
+title: Share a model directly
 description: This tutorial will guide you through the process of creating a direct share link
 weight: 4
 ---
 
 This tutorial will guide you through the process of creating a direct share on the model page.
 
-1. Open the model page, scroll down to **Versions**, select the desired **Version**, and then expand the list of **Share ls**.
----
+{{% steps %}}
 
-2. Next, click on **Create Link**.
+### Open the model page
 
----
+Open the model page, scroll down to **Versions**.
 
-3. Set a private note. For protection options, choose **Direct only visible to accounts you add**.
+### Create a new link
 
----
+Select the desired **Version**, expand the list of **Share ls**, and click on **Create Link**.
 
-4. Set the necessary permissions and then create the **Generate Link**.
+### Set the title
 
----
+Set a **Title** for the link.
 
-5. To the right of the newly created **Share link**, click on the **Add Users** icon.
+### Set a private note
 
----
+Write a **Private note** that is just for yourself.
 
-6. Search for the user you wish to grant access to the sharing tool.
+### Change the protection mode
 
----
+For protection options, choose **Direct only visible to accounts you add**.
 
-7. Check the box next to the user's name and then click on the **Update Access** button.
+### Generate a link
+
+Set the necessary permissions and then create the **Generate Link**.
+
+### Add a user
+
+To the right of the newly created **Share link**, click on the **Add Users** icon.
+
+Search for the user you wish to grant access to the sharing tool.
+
+Check the box next to the user's name and then click on the **Update Access** button.
 
 The user will then gain access to this **Share**. You can verify this by navigating to that user's account and clicking on **Share it with Me**.
+
+{{% /steps %}}

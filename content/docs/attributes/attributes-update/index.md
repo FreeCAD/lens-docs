@@ -1,6 +1,6 @@
 ---
 id: attributes-update
-title: Updating Model Attributes 
+title: Update model attributes 
 description: How to update model attributes on Lens
 weight: 3
 draft: true

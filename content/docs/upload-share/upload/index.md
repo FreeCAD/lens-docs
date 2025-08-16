@@ -1,38 +1,46 @@
 ---
 id: lens-upload
-title: Uploading 3D CAD Models
-description: Upload 3D CAD files
+title: Upload 3D CAD Models
+description: Upload 3D CAD files to Ondsel Lens
 weight: 1
 ---
 
 This tutorial will guide you through the process of uploading a file to your workspace.
 
-1. Begin by clicking at the top of the sidebar to select the appropriate organization.
+{{% steps %}}
 
----
+### Select organization and workspace
 
-2. Then, select the desired workspace.
+Begin by clicking at the top of the sidebar to select the appropriate organization.
 
----
+After that, select the desired workspace.
 
-3. Next, click on the **+** icon and select **Add New File**.
+![Step 2](step-02.gif)
 
----
+### Add new file
 
-4. Click on **Browse** to choose the file you wish to upload.
+Click on the **+** icon and select **Add New File**.
 
----
+![Step 3](step-03.gif)
 
-5. The selected file will then be added to the workspace and the designated folder.
+After that, click on **Browse** to choose the file you wish to upload.
 
----
+![Step 4](step-04.gif)
 
-6. You can double-click the file to open the model page.
+The selected file will then be added to the workspace and the designated folder.
 
----
+### Open the model page
 
-7. To preview the uploaded model view, click on **Explore**.
+You can double-click the file to open the model page.
 
----
+![Step 5](step-06.gif)
+
+### Preview the model
+
+To preview the uploaded model view, click on **Explore**.
+
+![Step 6](step-07.gif)
+
+{{% /steps %}}
 
 By following these steps, you will successfully upload a file to your workspace and explore its content.
