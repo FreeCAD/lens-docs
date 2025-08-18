@@ -1,24 +1,30 @@
 ---
 id: promotions-add
-title: Adding a Promotion
+title: Add a promotion
 description: How to create a promotion
 weight: 1
 ---
 
-This tutorial will guide you through the steps to promote a model on your organization page.
+To promote a model on your organization page, follow these steps:
 
-1. Ensure that you have the correct organization page selected in the top left corner of the screen.
+{{% steps %}}
 
----
+### Check the orhanization
 
-2. In the list of public models, click **Model Preview** to open it a model.
+Ensure that you have the correct organization page selected in the top left corner of the screen.
 
----
+### Go to model preview
 
-2. Once the model is open, click on the **Bullhorn icon**, add an optional message, and confirm by clicking **Yes**.
+In the list of public models, click **Model Preview** to open it a model.
 
----
+### Create a promotion
 
-3. Click on the **Public View of Me** item located in the left sidebar.
+Once the model is open, click on the **Bullhorn icon**, add an optional message, and confirm by clicking **Yes**.
+
+### Verify the promotion
+
+Click on the **Public View of Me** item located in the left sidebar.
 
 You will see the model listed among your promoted items.
+
+{{% /steps %}}

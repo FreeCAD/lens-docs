@@ -1,6 +1,6 @@
 ---
 id: org-types
-title: Types of Organizations
+title: Types of organizations
 description: What organization types are available in Ondsel Lens
 weight: 1
 ---
@@ -31,6 +31,6 @@ An organization whose membership and workspaces are publicly viewable.
 An organization created by an enterprise account for the purpose of collaboration. Currently unavailable.
 
 - Can have one or more users of any tier.  
-- Can have zero or more Workspaces.  
+- Can have zero or more workspaces.  
 - New workspaces are not marked ‘open’ by default.
 - Workspaces can be marked ‘open’ at the discretion of the owner

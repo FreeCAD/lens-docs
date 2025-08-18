@@ -2,10 +2,7 @@
 id: slugs
 title: Slugs
 description: Learn about slugs in Ondsel Lens
-tags:
-  - slugs
-  - concepts
-sidebar_position: 3
+weight: 4
 ---
 
 Ondsel Lens makes extensive use of slugs, user-friendly and SEO-friendly URLs. You are expected to define slugs when you create both organizations and workspaces.
