@@ -77,4 +77,4 @@ params:
 
   banner:
     key: "announcement"
-    message: "Lens is now available as a TrueNAS app! 🎉 [Find out more here!](/news/2025/lens-now-available-on-truenas/)"
+    message: "You can run custom Python scripts on your models now! 🎉 [Find out more here!](/news/2026/running-custom-scripts/)"
